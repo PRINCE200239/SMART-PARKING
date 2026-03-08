@@ -48,4 +48,4 @@ SmartParking/
 - IoT sensors for real time slot detection
 
 ## Author
-Ravi Thakur
+PRINCE KUMAR
